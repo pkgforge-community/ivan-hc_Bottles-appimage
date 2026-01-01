@@ -1,1 +1,1 @@
-https://github.com/pkgforge-community/ivan-hc_Bottles-appimage/releases/download/20251202-151838-20251202T162014/Bottles_60.0-1-archimage5.0-x86_64.AppImage
+https://github.com/pkgforge-community/ivan-hc_Bottles-appimage/releases/download/60.1-1-20251231T043411/Bottles_60.1-1-archimage5.0-x86_64.AppImage
